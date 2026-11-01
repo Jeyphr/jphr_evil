@@ -7,6 +7,6 @@ Perk or Gun!
  
  
 #MMM2
-Jeyphr [v0.5]
+Jeyphr [v1.0]
 1
 1
